@@ -1,0 +1,15 @@
+C:\Users\Fagner Fernandes\source\repos\RegistroFuncionario\RegistroFuncionario\bin\Debug\net6.0\RegistroFuncionario.exe
+C:\Users\Fagner Fernandes\source\repos\RegistroFuncionario\RegistroFuncionario\bin\Debug\net6.0\RegistroFuncionario.deps.json
+C:\Users\Fagner Fernandes\source\repos\RegistroFuncionario\RegistroFuncionario\bin\Debug\net6.0\RegistroFuncionario.runtimeconfig.json
+C:\Users\Fagner Fernandes\source\repos\RegistroFuncionario\RegistroFuncionario\bin\Debug\net6.0\RegistroFuncionario.dll
+C:\Users\Fagner Fernandes\source\repos\RegistroFuncionario\RegistroFuncionario\bin\Debug\net6.0\RegistroFuncionario.pdb
+C:\Users\Fagner Fernandes\source\repos\RegistroFuncionario\RegistroFuncionario\obj\Debug\net6.0\RegistroFuncionario.csproj.AssemblyReference.cache
+C:\Users\Fagner Fernandes\source\repos\RegistroFuncionario\RegistroFuncionario\obj\Debug\net6.0\RegistroFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fagner Fernandes\source\repos\RegistroFuncionario\RegistroFuncionario\obj\Debug\net6.0\RegistroFuncionario.AssemblyInfoInputs.cache
+C:\Users\Fagner Fernandes\source\repos\RegistroFuncionario\RegistroFuncionario\obj\Debug\net6.0\RegistroFuncionario.AssemblyInfo.cs
+C:\Users\Fagner Fernandes\source\repos\RegistroFuncionario\RegistroFuncionario\obj\Debug\net6.0\RegistroFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\Fagner Fernandes\source\repos\RegistroFuncionario\RegistroFuncionario\obj\Debug\net6.0\RegistroFuncionario.dll
+C:\Users\Fagner Fernandes\source\repos\RegistroFuncionario\RegistroFuncionario\obj\Debug\net6.0\refint\RegistroFuncionario.dll
+C:\Users\Fagner Fernandes\source\repos\RegistroFuncionario\RegistroFuncionario\obj\Debug\net6.0\RegistroFuncionario.pdb
+C:\Users\Fagner Fernandes\source\repos\RegistroFuncionario\RegistroFuncionario\obj\Debug\net6.0\RegistroFuncionario.genruntimeconfig.cache
+C:\Users\Fagner Fernandes\source\repos\RegistroFuncionario\RegistroFuncionario\obj\Debug\net6.0\ref\RegistroFuncionario.dll
